@@ -1,4 +1,4 @@
-# ESP32 OLED Draw Pad
+# ESP32(DEVKIT V1) OLED Draw Pad
 
 Draw on a web page from your phone's browser and watch it mirror live on a 128×64 OLED screen — no app required, no internet needed.
 
